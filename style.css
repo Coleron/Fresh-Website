@@ -30,7 +30,7 @@ footer {
 .topnav{
 	position:fixed;
 	top:0;
-	background-color: #fafafa;
+	background-color: #333;
 }
 
 .topnav a {
@@ -45,5 +45,5 @@ footer {
 
 .topnav a:hover {
 	background-color: #333;
-	color: #333;
+	color: #fafafa;
 }
